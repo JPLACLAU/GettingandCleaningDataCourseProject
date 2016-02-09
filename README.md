@@ -14,7 +14,7 @@ This is the course proyect for the coursera course of the John Hopkins Universit
 
 **run_analysis.R**: R script to transform raw data set in a tidy one
 
-**subjects_averages_data.txt**: The tidy dataset is named " * *subjects_averages_data.txt* * " and should be available for download from the coursera peer-correction system. However, there is a copy-paste of the content of that file on this file.
+**subjects_averages_data.txt**: The tidy dataset is named " *subjects_averages_data.txt* " and should be available for download from the coursera peer-correction system. However, there is a copy-paste of the content of that file on this file.
 
 ### Steps to reproduce this proyect
 1. Open R-Studio and set your prefered working directory for this proyect.
