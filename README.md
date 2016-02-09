@@ -26,7 +26,7 @@ This is the course proyect for the coursera course of the John Hopkins Universit
 (The tidy dataset should be on your working directory with the name of " * *subjects_averages_data.txt* * " .)
 
 #### (*) Important
-You need the software 7-zip installed on your computer and on default instalation directory in order to unzip the raw dataset provided directly from the R script. Other wise you have to download and unzip the dataset manually inside the working directoy, make sure the default directory subfolder of the raw data is inside the working directory (" ~\UCI HAR Dataset\ ") and run the scrip ignoring from line 39 to 69. The url of the raw dataset is on the ORIGINAL_INSTUCTIONS.txt file on this repository.
+You need the software 7-zip installed on your computer and on default instalation directory in order to unzip the raw dataset provided directly from the R script. Other wise you have to download and unzip the dataset manually inside the working directoy, make sure the default directory subfolder of the raw data is inside the working directory (" ~\UCI HAR Dataset\ ") with all the raw data on it, and then run the scrip ignoring from line 39 to 69. The url of the raw dataset is on the ORIGINAL_INSTUCTIONS.txt file on this repository.
 
 
 Thank you for passing by!
