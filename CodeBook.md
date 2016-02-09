@@ -95,9 +95,22 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 | fBodyBodyGyroJerkMag-std() | Standard variation of the magnitude of the three-dimensional signal of the Body angular velocity Jerk signal with "FFT".  | 
 
 
-Finaly, the activity type and subject number.
+Finaly, the activity type and subject number. There are a total of 30 subjects and there can be 6 types of activities: 
+1) WALKING
+2) WALKING_UPSTAIRS
+3) WALKING_DOWNSTAIRS
+4) SITTING
+5) STANDING
+6) LAYING .
+
 
 | Variable Names        | Variable description      |
 | -------------        |:-------------:|
 | Activity | Type of activity done by the subject |
 | subject | Subject number | 
+
+
+For more information download the original dataset at:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+End of the Codebook. Thank you for reviewing.
