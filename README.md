@@ -6,6 +6,8 @@ This is the course proyect for the coursera course of the John Hopkins Universit
 
 ### What you find in this repository
 
+**ORIGINAL_INSTUCTIONS.TXT**: The original instructions for this proyect.
+
 **CodeBook.md**: information about the variables on the tidy data set and some about the raw data elaboration.
 
 **README.md**: this file
