@@ -7,7 +7,7 @@ The features selected for this database come from the accelerometer and gyroscop
 
 
 
-| Variable Names        | Variable description      |
+| Variable Name        | Variable description      |
 | -------------        |:-------------:|
 | tBodyAcc-mean()-X | Body acceleration mean. Separeted from Gravity acceleration with a low pass Butterworth filter with a corner frequency of 0.3 Hz ... on X axis| 
 | tBodyAcc-mean()-Y | " ..on Y | 
@@ -25,7 +25,7 @@ The features selected for this database come from the accelerometer and gyroscop
 
 Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ).  This was not on the original Feature explanation text file, but by deduction "tBodyGyro" must refer to the measurement of the angular velocity.
 
-| Variable Names        | Variable description      |
+| Variable Name       | Variable description      |
 | -------------        |:-------------:|
 | tBodyAccJerk-mean()-X | Mean of the Jerk signals of the linear body acceleration on X axis | 
 | tBodyAccJerk-mean()-Y |  " ..on Y | 
@@ -49,7 +49,7 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag). 
 
-| Variable Names        | Variable description      |
+| Variable Name     | Variable description      |
 | -------------        |:-------------:|
 | tBodyAccMag-mean() | Mean of the magnitude of the three-dimensional signal of the Body acceleration | 
 | tBodyAccMag-std() | Standard variation of the magnitude of the three-dimensional signal of the Body acceleration |  
@@ -65,7 +65,7 @@ Also the magnitude of these three-dimensional signals were calculated using the 
 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
 
-| Variable Names        | Variable description      |
+| Variable Name  | Variable description      |
 | -------------        |:-------------:|
 | fBodyAcc-mean()-X | Body acceleration mean with "FFT". Separeted from Gravity acceleration with a low pass Butterworth filter with a corner frequency of 0.3 Hz ... on X axis|   
 | fBodyAcc-mean()-Y  |  " ..on Y |  
@@ -104,7 +104,7 @@ Finaly, the activity type and subject number. There are a total of 30 subjects a
 6) LAYING .
 
 
-| Variable Names        | Variable description      |
+| Variable Name        | Variable description      |
 | -------------        |:-------------:|
 | Activity | Type of activity done by the subject |
 | subject | Subject number | 
